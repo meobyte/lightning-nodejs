@@ -1,9 +1,7 @@
 [
     "index.md",
-    [
-        "what-is-node-js.html",
-        "v8.html",
-        "event-loop.html",
-        "npm.html"
-    ]
+    "what-is-node-js.html",
+    "v8.html",
+    "event-loop.html",
+    "npm.html"
 ]
