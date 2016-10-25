@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Node.js Lightning Talk",
+    "packageVersion": "0.0.0",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "meobyte",
+    "githubRepository": "lightning-nodejs"
+  }
+}
