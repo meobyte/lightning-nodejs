@@ -1,10 +1,6 @@
+<img src="resources/nodejs.png" width="300">
+# Lightning Talk
 
-# Node.js Lightning Talk
+### by Michelle Anderson
+### October 2016
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
