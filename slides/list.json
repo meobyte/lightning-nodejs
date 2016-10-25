@@ -1,7 +1,15 @@
 [
     "index.md",
     "what-is-node-js.html",
-    "v8.html",
+    [
+        "platform.html",
+        "v8.html"
+    ],
+
     "event-loop.html",
-    "npm.html"
+    [
+        "npm.html",
+        "frameworks.html"
+    ],
+    "examples.html"
 ]
